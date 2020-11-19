@@ -1,0 +1,9 @@
+L298N_MotorDriver KEYWORD1
+setSpeed KEYWORD2
+getSpeed KEYWORD2
+setDirection KEYWORD2
+getDirection KEYWORD2
+enable KEYWORD2
+disable KEYWORD2
+setEnabled KEYWORD2
+isEnabled KEYWORD2
