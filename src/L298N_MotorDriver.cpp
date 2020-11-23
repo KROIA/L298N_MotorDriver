@@ -1,8 +1,3 @@
-/*
-Autor 	Alex Krieg
-Version	1.0.0
-Datum 	19.11.2020
-*/
 #include "L298N_MotorDriver.h"
 
 L298N_MotorDriver::L298N_MotorDriver(byte enable, byte inA, byte inB)

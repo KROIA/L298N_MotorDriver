@@ -1,7 +1,6 @@
 /*
 Autor 	Alex Krieg
-Version	1.0.0
-Datum 	19.11.2020
+Datum 	23.11.2020
 */
 #ifndef L298N_MOTORDTIVER_H
 #define	L298N_MOTORDTIVER_H
